@@ -1,5 +1,8 @@
 # Markdown Intro
 
+## add something 
+I am learning neuronscience and unix and will be learning algorithms soon.
+
 ## from unix workbench
 
 And as **imagination** bodies forth,
